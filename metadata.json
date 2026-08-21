@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Fighter",
+  "description": "Retro 2D fighting game built with Phaser",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
